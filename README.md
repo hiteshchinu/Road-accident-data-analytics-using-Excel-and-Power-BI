@@ -4,16 +4,16 @@
 
 ## Table of Contents
 
-1. [Overview](#overview)
-2. [Project Structure](#project-structure)
-3. [Features](#features)
-4. [How to Use](#how-to-use)
-5. [Visualizations](#visualizations)
-6. [Screenshots](#screenshots)
-   - [Dashboard Snapshot](#dashboard-snapshot)
-7. [Kaggle Dataset](#kaggle-dataset)
-8. [Contributing](#contributing)
-9. [Acknowledgments](#acknowledgments)
+1. [Overview](#1-overview)
+2. [Project Structure](#2-project-structure)
+3. [Features](#3-features)
+4. [How to Use](#4-how-to-use)
+5. [Visualizations](#5-visualizations)
+6. [Screenshots](#6-screenshots)
+   - [Dashboard Snapshot](#61-dashboard-snapshot)
+7. [Kaggle Dataset](#7-kaggle-dataset)
+8. [Contributing](#8-contributing)
+9. [Acknowledgments](#9-acknowledgments)
 
 ## 1. Overview
 
