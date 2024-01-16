@@ -73,7 +73,7 @@ Follow these steps to effectively use and explore the project:
 
 View a snapshot of the entire Power BI dashboard to get a visual preview of the comprehensive analysis.
 
-### Dashboard Snapshot
+### 6.1 Dashboard Snapshot
 
 ![Dashboard Snapshot](https://github.com/hiteshchinu/Road-accident-data-analytics-using-Excel-and-Power-BI/assets/82470023/82c30017-dee1-4c2b-a2a9-c9e32aea4bcd)
 
